@@ -39,4 +39,4 @@ Works done in the Introductory course for Machine Learning and Artificial Intell
   - Y2 Cooling Load
   
 * Output:
-  - Study using Recursive Feature Elimination (RFE) and Recursive Feature Elimination with Cross-Validation(RFECV)
+  - Study using Recursive Feature Elimination (RFE) and Recursive Feature Elimination with Cross-Validation(RFECV).
