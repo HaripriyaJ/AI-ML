@@ -24,7 +24,7 @@ Works done in the Introductory course for Machine Learning and Artificial Intell
   - Diabetes Prediction (Yes/No)
 
 ### Project 3: Energy Efficiency Dataset Analysis using Extra Trees, RFE and RFECV 
-(Last Updated on 10/Sep/2020)
+(Last Updated on 14/Sep/2020)
 
 * Dataset Attributes
   - X1 Relative Compactness
