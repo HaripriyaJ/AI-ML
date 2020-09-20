@@ -41,3 +41,14 @@ Works done in the Introductory course for Machine Learning and Artificial Intell
   
 * Output:
   - Study using Recursive Feature Elimination (RFE) and Recursive Feature Elimination with Cross-Validation(RFECV).
+  
+### Project 4: Web Scraping using BeautifulSoup
+(Last Updated on 20/Sep/2020)
+
+
+* Input
+  - Amazong web url: https://www.amazon.in/s?k=top+10+phones+under+20000&crid=3UFKG06L1X1O1&sprefix=top+10+phone%2Caps%2C310&ref=nb_sb_ss_i_4_12
+  
+* Output:
+  - CSV file with columns: Mobile Name, Selling Price, Discount Options, EMI Options, Delivery Date	Ratings, Review Count
+
